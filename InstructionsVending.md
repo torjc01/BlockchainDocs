@@ -1,4 +1,4 @@
-Instructions 
+# Instructions Vending Machine
 
 1. Open your Bitcoin Lightning wallet. If you do not have a Bitcoin Lightning wallet download the Muun Bitcoin Lightning wallet by scanning the QR code below. 
 
